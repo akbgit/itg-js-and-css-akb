@@ -1,0 +1,45 @@
+﻿<style type='text/css'> 
+  
+.stx-update { 
+text-decoration: none !important; 
+position: fixed; 
+right:0px; 
+left:0px; 
+top: 0px; 
+display: block; 
+background-color: #8632FF !important; 
+text-align: center !important; 
+padding: 2px !important; 
+z-index: 9999 !important; 
+color: white !important; 
+font-size: 17px; 
+font-family: 'verdana' !important; 
+border-bottom: 8px solid rgba(255, 255, 255, 0.69); 
+-webkit-transition: all 0.5s ease-in-out; 
+-moz-transition: all 0.5s ease-in-out; 
+-ms-transition: all 0.5s ease-in-out; 
+-o-transition: all 0.5s ease-in-out; 
+opacity: 0.8; 
+overflow: hidden; 
+} 
+   
+.stx-update:hover { 
+opacity: 1.0; 
+} 
+.profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
+-webkit-transition: width 1s ease-in-out, height 1s ease-out; 
+-moz-transition: width 1s ease-in-out, height 1s ease-out; 
+-ms-transition: width 1s ease-in-out, height 1s ease-out; 
+transition: width 1s ease-in-out, height 1s ease-out; 
+} 
+.profile-img:hover {width:290px;height:270px;display:block;} 
+  
+.more{ 
+border: 5px solid #8632ff; 
+padding: 2px; 
+background: #f4f4f4; 
+border-radius:25px; 
+ font-size:18px; 
+color:red; 
+}
+</style>
