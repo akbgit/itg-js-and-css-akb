@@ -54,12 +54,6 @@ padding-left:2px;
 margin-left=-5px;
 border-radius:10px;
 }
-
-.blog-pager-older-link, .home-link,
-.blog-pager-newer-link {
-font-size:25px;
-background:#81F781;
-border-radius:20px;
 div.ex
 {
 border:0px solid black;
@@ -78,12 +72,4 @@ border-radius:25px;
 color:red;
 }
 
-.more{
-border: 5px solid #8632ff;
-padding: 2px;
-background: #f4f4f4;
-border-radius:25px;
- font-size:18px;
-color:red;
-}
 </style>
