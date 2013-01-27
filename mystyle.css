@@ -57,7 +57,9 @@ a:hover {
 #sidebar-left-1 {
 margin-right:-10px;
 }
-
+#sidebar-left-1 {
+margin-left:-10px;
+}
 .column-right-inner {
 margin-left:-25px;
 }
@@ -65,12 +67,7 @@ margin-left:-25px;
 #sidebar-right-1 {
 margin-right:-10px;
 }
-#sidebar-left-1 {
-margin-left:-20px;
-}
 
-
- <b:skin><![CDATA[/*
  ]]>
 a.one:link {
 font-size:15px;
@@ -93,5 +90,5 @@ padding-left:2px;
 margin-left=-5px;
 border-radius:10px;
 }
-]]></b:skin>
+]]>
 </style>
