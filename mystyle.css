@@ -67,7 +67,10 @@ margin-left:-25px;
 #sidebar-right-1 {
 margin-right:-10px;
 }
-
+h2:hover{
+background-color:green;
+color:#FFFFFF;
+}
  ]]>
 a.one:link {
 font-size:15px;
