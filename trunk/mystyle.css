@@ -59,7 +59,7 @@ margin-right:-20px;
 }
 
 .column-right-inner {
-margin-left:-25px;
+margin-left:-5px;
 }
 
 #sidebar-right-1 {
@@ -73,10 +73,7 @@ padding-left:1px;
 Color:white;
 background-color:green;
 }
-h4:hover{
-font-size:2em;
-background-color:red;
-}
+
  <b:skin><![CDATA[/*
 a.one:link {
 font-size:15px;
