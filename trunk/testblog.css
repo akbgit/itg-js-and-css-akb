@@ -1,0 +1,55 @@
+﻿<style type='text/css'>
+#Header1 {
+margin-top:20px;
+}
+a.one:link {
+font-size:15px;
+ color:#2A120A;  
+ background:#F2EEEE;  
+ padding:5px;  
+ -webkit-border-radius: 5px;  
+}
+a.one:hover  {  
+ color:#FAFAFA;  
+ background:#19A309;  
+}
+
+div.three {
+width:auto;
+border-style:solid;
+border-color:green;
+border-width:2px;
+padding-left:2px;
+margin-left=-5px;
+border-radius:10px;
+}
+
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+font-size:25px;
+background:#81F781;
+border-radius:20px;
+}
+#Header1 {
+margin-top:20px;
+}
+
+div.ex
+{
+border:0px solid black;
+padding:0px,0px,0px,0px;
+margin:0px,0px,0px,0px;
+width:329px;
+
+}
+
+.more{
+border: 5px solid #8632ff;
+padding: 2px;
+background: #f4f4f4;
+border-radius:25px;
+ font-size:18px;
+color:red;
+}
+
+</style>
