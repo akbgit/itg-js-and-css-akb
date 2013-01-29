@@ -86,4 +86,5 @@ overflow: hidden;
 .stx-update:hover {
 opacity: 1.0;
 }
+.profile-img:hover {width:290px;height:270px;display:block;} 
 </style>
