@@ -1,0 +1,97 @@
+﻿<style type='text/css'> 
+  
+.stx-update { 
+text-decoration: none !important; 
+position: fixed; 
+right:0px; 
+left:0px; 
+top: 0px; 
+display: block; 
+background-color: #8632FF !important; 
+text-align: center !important; 
+padding: 2px !important; 
+z-index: 9999 !important; 
+color: white !important; 
+font-size: 17px; 
+font-family: 'verdana' !important; 
+border-bottom: 8px solid rgba(255, 255, 255, 0.69); 
+-webkit-transition: all 0.5s ease-in-out; 
+-moz-transition: all 0.5s ease-in-out; 
+-ms-transition: all 0.5s ease-in-out; 
+-o-transition: all 0.5s ease-in-out; 
+opacity: 0.8; 
+overflow: hidden; 
+} 
+   
+.stx-update:hover { 
+opacity: 1.0; 
+} 
+.profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
+-webkit-transition: width 1s ease-in-out, height 1s ease-out; 
+-moz-transition: width 1s ease-in-out, height 1s ease-out; 
+-ms-transition: width 1s ease-in-out, height 1s ease-out; 
+transition: width 1s ease-in-out, height 1s ease-out; 
+} 
+.profile-img:hover {width:290px;height:270px;display:block;} 
+  
+.more{ 
+border: 5px solid #8632ff; 
+padding: 2px; 
+background: #f4f4f4; 
+border-radius:25px; 
+ font-size:18px; 
+color:red; 
+}
+
+.sidebar .widget {
+background:#ffffff;
+ border: 0px solid #999999;
+ margin: 0px 0px 0.5em 0px;
+ padding:0px 0px 0px 3px;
+}
+a:hover {               
+		letter-spacing: 0px;             
+		color:red;
+                
+               	}
+#sidebar-left-1 {
+margin-right:-10px;
+}
+#sidebar-left-1 {
+margin-left:-10px;
+}
+.column-right-inner {
+margin-left:-25px;
+}
+
+#sidebar-right-1 {
+margin-right:-10px;
+}
+h2:hover{
+background-color:green;
+color:#FFFFFF;
+}
+
+a.one:link {
+font-size:15px;
+ color:#2A120A;  
+ background:#F2EEEE;  
+ padding:5px;  
+ -webkit-border-radius: 5px;  
+}
+a.one:hover  {  
+ color:#FAFAFA;  
+ background:#19A309;  
+}
+
+div.three {
+width:auto;
+border-style:solid;
+border-color:green;
+border-width:2px;
+padding-left:2px;
+margin-left=-5px;
+border-radius:10px;
+}
+
+</style>
