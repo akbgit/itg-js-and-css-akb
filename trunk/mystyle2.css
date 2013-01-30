@@ -25,5 +25,22 @@ overflow: hidden;
 .stx-update:hover {
 opacity: 1.0;
 }
+#para1
+{
+border:1px solid #D8D8D8;
+padding-top:6px;
+padding-right:6px;
+padding-bottom:6px;
+padding-left:6px;
+text-align:justify;
+} 
+div.hdl1
+{
+margin-left:0px;
+text-align:left;
+color:black;
+background:#E6E6E6;
+padding: 0,0,2em,0;
+} 
 
 </style>
