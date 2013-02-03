@@ -60,7 +60,7 @@ color:red;
   user-select: none;         
 }
 
-.stx-update {
+.stx-update1 {
 text-decoration: none !important;
 position: fixed;
 right:0px;
@@ -83,7 +83,7 @@ opacity: 0.8;
 overflow: hidden;
 }
  
-.stx-update:hover {
+.stx-update1:hover {
 opacity: 1.0;
 }
 .profile-img:hover {width:290px;height:270px;display:block;} 
