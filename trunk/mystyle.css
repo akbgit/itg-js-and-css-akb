@@ -66,11 +66,20 @@ margin-left:-25px;
 #sidebar-right-1 {
 margin-right:-10px;
 }
+h2 {
+Color:#000000;
+background-color:#E6E6E6;
+Corner:-5px;
+}
 h2:hover{
 background-color:green;
 color:#FFFFFF;
 }
-
+h4 {
+padding-left:1px;
+Color:white;
+background-color:white;
+}
 a.one:link {
 font-size:15px;
  color:#2A120A;  
@@ -107,4 +116,26 @@ color:black;
 background:#E6E6E6;
 padding: 0,0,2em,0;
 } 
+
+.post-body {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  -o-user-select: none;
+  user-select: none;         
+}
+#PageList1{
+margin-left:-12px;
+width:1004px;
+}
+div.aboutbox
+{
+width:1000px;
+padding:10px;
+border:2px solid green;
+color:black;
+background:#ECF8E0;
+margin:0px;
+}
+
 </style>
