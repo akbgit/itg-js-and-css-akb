@@ -81,14 +81,14 @@ opacity: 1.0;
 /*----- MBT Drop Down Menu CSS----*/
 
 #akbnavbar { 
-    background: #060505; 
-    width: 310px; 
+    background: #A4A4A4; 
+    width: 1062px; 
     color: #FFF; 
         margin: 0px; 
         padding: 0; 
         position: relative; 
         border-top:0px solid #960100; 
-        height:35px;
+        height:25px;
 }
 
 #akbnav { 
@@ -107,7 +107,7 @@ opacity: 1.0;
     padding: 0; 
         border-left:1px solid #333; 
         border-right:1px solid #333; 
-        height:35px; 
+        height:25px; 
 } 
 #akbnav li a, #akbnav li a:link, #akbnav li a:visited { 
     color: #FFF; 
@@ -118,7 +118,7 @@ opacity: 1.0;
         
 } 
 #akbnav li a:hover, #akbnav li a:active { 
-    background: #BF0100; 
+    background: #8632ff; 
     color: #FFF; 
     display: block; 
     text-decoration: none; 
