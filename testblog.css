@@ -82,8 +82,8 @@ opacity: 1.0;
 
 #akbnavbar { 
     background: #060505; 
-    width: 1062px; 
-    color: #666666; 
+    width: 960px; 
+    color: #FFF; 
         margin: 0px; 
         padding: 0; 
         position: relative; 
@@ -159,7 +159,7 @@ opacity: 1.0;
 #akbnav li li a, #akbnav li li a:link, #akbnav li li a:visited { 
     background: #BF0100; 
     width: 120px; 
-    color: #1C1C1C; 
+    color: #FFF; 
     display: block; 
     font:normal 12px Helvetica, sans-serif; 
     margin: 0; 
