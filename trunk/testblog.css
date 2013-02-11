@@ -82,7 +82,7 @@ opacity: 1.0;
 
 #akbnavbar { 
     background: #060505; 
-    width: 1062px; 
+    width: 960px; 
     color: #FFF; 
         margin: 0px; 
         padding: 0; 
@@ -177,5 +177,5 @@ border-bottom:1px dotted #333;
         text-decoration: none; 
 }
 /*----- MBT Drop Down Menu CSS END----*/
-]]></b:skin>
+
 </style>
