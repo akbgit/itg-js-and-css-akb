@@ -124,8 +124,8 @@ padding: 0,0,2em,0;
   user-select: none;         
 }
 #PageList1{
+margin-bottom:-5px;
 margin-left:-12px;
-margin-bottom:-20px;
 width:1004px;
 }
 div.aboutbox
@@ -143,8 +143,8 @@ width:auto;
 div.ex
 {
 border:0px solid black;
-padding:0px,0px,0px,0px;
-margin:0px,0px,0px,0px;
+padding:-5px,0px,-5px,0px;
+margin:-5px,0px,-5px,0px;
 width:329px;
 }
 </style>
