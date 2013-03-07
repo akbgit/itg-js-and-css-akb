@@ -31,7 +31,7 @@ opacity: 1.0;
 transition: width 1s ease-in-out, height 1s ease-out; 
 } 
 .profile-img:hover {width:290px;height:270px;display:block;} 
-  
+  div.img1:hover {width:290px;height:270px;display:block;}
 .more{ 
 border: 5px solid #8632ff; 
 padding: 2px; 
