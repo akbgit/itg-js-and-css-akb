@@ -1,6 +1,4 @@
 ﻿<script type="text/javascript">
-
-<!-- START OF Watermark Jump to Top Link DHTML -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript">
 //** v1.1 (April 7th, 10'):
@@ -78,7 +76,5 @@ var scrolltotop={
 
 scrolltotop.init()</script>
 
-
-<!-- END OF Watermark Jump to Top Link DHTML -->
 
 </script>
