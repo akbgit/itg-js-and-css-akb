@@ -77,6 +77,17 @@ overflow: hidden;
 .stx-update1:hover {
 opacity: 1.0;
 }
+.stx-update1 a.close {
+	float: right;
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	background-color: #fff;
+	border-left: 1px solid #333;
+	border-bottom: 1px solid #333;
+	padding: 0 4px;
+	margin-left: 5px; }
+
 .profile-img:hover {width:290px;height:270px;display:block;} 
 /*----- MBT Drop Down Menu CSS----*/
 
