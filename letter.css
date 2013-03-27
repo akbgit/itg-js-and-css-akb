@@ -42,5 +42,34 @@ color:black;
 background:#E6E6E6;
 padding: 0,0,2em,0;
 } 
+.column-right-inner {
+margin-left:-25px;
+}
 
+#sidebar-right-1 {
+margin-right:-10px;
+}
+
+
+a.one:link {
+font-size:15px;
+ color:#2A120A;  
+ background:#F2EEEE;  
+ padding:5px;  
+ -webkit-border-radius: 5px;  
+}
+a.one:hover  {  
+ color:#FAFAFA;  
+ background:#19A309;  
+}
+
+div.three {
+width:auto;
+border-style:solid;
+border-color:green;
+border-width:2px;
+padding-left:2px;
+margin-left=-5px;
+border-radius:10px;
+}
 </style>
