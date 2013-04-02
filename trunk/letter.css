@@ -67,9 +67,10 @@ div.three {
 width:auto;
 border-style:solid;
 border-color:green;
-border-width:2px;
-padding-left:2px;
-margin-left=-5px;
+border-width:3px;
+padding-left:5px;
+padding-right:5px;
+margin-left=5px;
 border-radius:10px;
 }
 #Header1{
