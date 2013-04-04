@@ -49,7 +49,12 @@ margin-left:-25px;
 #sidebar-right-1 {
 margin-right:-10px;
 }
-
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+font-size:25px;
+background:#81F781;
+border-radius:20px;
+}
 
 a.one:link {
 font-size:15px;
