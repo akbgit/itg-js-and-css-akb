@@ -1,6 +1,6 @@
 ﻿<style type='text/css'>
 #Header1 {
-margin-top:20px;
+margin-top:50px;
 }
 a.one:link {
 font-size:15px;
@@ -26,10 +26,6 @@ font-size:25px;
 background:#81F781;
 border-radius:20px;
 }
-#Header1 {
-margin-top:20px;
-}
-
 div.ex
 {
 border:0px solid black;
@@ -85,105 +81,7 @@ opacity: 1.0;
 	margin-left: 5px; }
 
 .profile-img:hover {width:290px;height:270px;display:block;} 
-/*----- MBT Drop Down Menu CSS----*/
 
-#akbnavbar { 
-    background: #060505; 
-    width: 1060px; 
-    color: #FFF; 
-        margin: 0px; 
-        padding: 0; 
-        position: relative; 
-        border-top:0px solid #960100; 
-        height:35px;
-}
-
-#akbnav { 
-    margin: 0; 
-    padding: 0; 
-} 
-#akbnav ul { 
-    float: left; 
-    list-style: none; 
-    margin: 0; 
-    padding: 0; 
-} 
-#akbnav li { 
-    list-style: none; 
-    margin: 0; 
-    padding: 0; 
-        border-left:1px solid #333; 
-        border-right:1px solid #333; 
-        height:35px; 
-} 
-#akbnav li a, #akbnav li a:link, #akbnav li a:visited { 
-    color: #FFF; 
-    display: block; 
-   font:normal 12px Helvetica, sans-serif;    margin: 0; 
-    padding: 9px 12px 10px 12px; 
-        text-decoration: none; 
-        
-} 
-#akbnav li a:hover, #akbnav li a:active { 
-    background: #BF0100; 
-    color: #FFF; 
-    display: block; 
-    text-decoration: none; 
-        margin: 0; 
-    padding: 9px 12px 10px 12px; 
-        
-    
-        
-}
-#akbnav li { 
-    float: left; 
-    padding: 0; 
-} 
-#akbnav li ul { 
-    z-index: 9999; 
-    position: absolute; 
-    left: -999em; 
-    height: auto; 
-    width: 160px; 
-    margin: 0; 
-    padding: 0; 
-} 
-#akbnav li ul a { 
-    width: 140px; 
-} 
-#akbnav li ul ul { 
-    margin: -25px 0 0 161px; 
-} 
-#akbnav li:hover ul ul, #akbnav li:hover ul ul ul, #akbnav li.sfhover ul ul, #akbnav li.sfhover ul ul ul { 
-    left: -999em; 
-} 
-#akbnav li:hover ul, #akbnav li li:hover ul, #akbnav li li li:hover ul, #akbnav li.sfhover ul, #akbnav li li.sfhover ul, #akbnav li li li.sfhover ul { 
-    left: auto; 
-} 
-#akbnav li:hover, #akbnav li.sfhover { 
-    position: static; 
-}
-#akbnav li li a, #akbnav li li a:link, #akbnav li li a:visited { 
-    background: #BF0100; 
-    width: 120px; 
-    color: #CCC; 
-    display: block; 
-    font:normal 12px Helvetica, sans-serif; 
-    margin: 0; 
-    padding: 9px 12px 10px 12px; 
-        text-decoration: none; 
-z-index:9999; 
-border-bottom:1px dotted #333;
-    
-} 
-#akbnav li li a:hover, #akbnavli li a:active { 
-    background: #060505; 
-    color: #FFF; 
-    display: block;     margin: 0; 
-    padding: 9px 12px 10px 12px; 
-        text-decoration: none; 
-}
-/*----- MBT Drop Down Menu CSS END----*/
 /*----- MEGA DROP DOWN 2 START----*/
 
 
