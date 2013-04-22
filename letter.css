@@ -77,6 +77,15 @@ padding:5px 10px 5px 10px;
 margin-left=5px;
 border-radius:10px;
 }
+div.four {
+width:auto;
+border-style:solid;
+border-color:grey;
+border-width:1px;
+padding:5px 10px 5px 10px;
+margin-left=5px;
+border-radius:10px;
+}
 #Header1{
 margin-top:-50px;
 margin-bottom:5px;
