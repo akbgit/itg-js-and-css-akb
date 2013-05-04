@@ -144,11 +144,11 @@ width:329px;
 #ad1 {
  width: 336px;
  height: 280px;
- position: absolute;
+ position: relative;
  left: 5px;
  right: 0px;
  bottom: 0px;
- top: 280px;
+ top: 0px;
  }
 #HTML4 {
 margin-top:5px;
