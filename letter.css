@@ -87,10 +87,14 @@ margin-left=5px;
 border-radius:10px;
 }
 #Header1{
-margin-top:-50px;
-margin-bottom:5px;
-padding-top:-10px;
-padding-bottom:0px;}
+margin-top:0px;
+margin-bottom:0px;
+padding-top:0px;
+padding-bottom:0px;
+}
+#navbar-iframe {
+   display: none !important;
+}
 .profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
 -webkit-transition: width 1s ease-in-out, height 1s ease-out; 
 -moz-transition: width 1s ease-in-out, height 1s ease-out; 
