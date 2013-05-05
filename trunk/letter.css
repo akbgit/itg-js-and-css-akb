@@ -92,8 +92,10 @@ margin-bottom:0px;
 padding-top:0px;
 padding-bottom:0px;
 }
-#navbar-iframe {
-   display: none !important;
+#navbar {
+height: 0px;
+visibility: hidden;
+display: none;
 }
 .profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
 -webkit-transition: width 1s ease-in-out, height 1s ease-out; 
