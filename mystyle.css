@@ -1,29 +1,26 @@
 ﻿<style type='text/css'> 
-.stx-update1 {
-text-decoration: none !important;
-position: fixed;
-right:0px;
-left:0px;
-top: 0px;
-display: block;
-background-color: #8632FF !important;
-text-align: center !important;
-padding: 2px !important;
-z-index: 9999 !important;
-color: white !important;
-font-size: 15px;
-font-family: 'verdana' !important;
-border-bottom: 5px solid rgba(255, 255, 255, 0.69);
--webkit-transition: all 0.5s ease-in-out;
--moz-transition: all 0.5s ease-in-out;
--ms-transition: all 0.5s ease-in-out;
--o-transition: all 0.5s ease-in-out;
-opacity: 0.8;
-overflow: hidden;
-}
-.stx-update1:hover {
-opacity: 1.0;
-}
+.msgbox {
+	position: absolute;
+	top: 15px;
+	right: 20px;
+	width: 20em;
+	background-color: #8632ff;
+	border: 1px solid #333;
+	color: #fff;
+	font-weight: bold; }
+.msgbox p {
+	margin: 0;
+	padding: 5px 10px; }
+.msgbox a.close {
+	float: right;
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	background-color: #fff;
+	border-left: 1px solid #333;
+	border-bottom: 1px solid #333;
+	padding: 0 4px;
+	margin-left: 5px; }
 .profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
 -webkit-transition: width 1s ease-in-out, height 1s ease-out; 
 -moz-transition: width 1s ease-in-out, height 1s ease-out; 
