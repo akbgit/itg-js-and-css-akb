@@ -1,0 +1,151 @@
+﻿<style type='text/css'> 
+.msgbox {
+	position: absolute;
+	top: 15px;
+	right: 20px;
+	width: 20em;
+	background-color: #8632ff;
+	border: 1px solid #333;
+	color: #fff;
+	font-weight: bold; }
+.msgbox p {
+	margin: 0;
+	padding: 5px 10px; }
+.msgbox a.close {
+	float: right;
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	background-color: #fff;
+	border-left: 1px solid #333;
+	border-bottom: 1px solid #333;
+	padding: 0 4px;
+	margin-left: 5px; }
+.profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
+-webkit-transition: width 1s ease-in-out, height 1s ease-out; 
+-moz-transition: width 1s ease-in-out, height 1s ease-out; 
+-ms-transition: width 1s ease-in-out, height 1s ease-out; 
+transition: width 1s ease-in-out, height 1s ease-out; 
+} 
+.profile-img:hover {width:290px;height:270px;display:block;} 
+  div.img1:hover {width:290px;height:270px;display:block;}
+.more{ 
+border: 5px solid #8632ff; 
+padding: 2px; 
+background: #f4f4f4; 
+border-radius:25px; 
+ font-size:18px; 
+color:red; 
+}
+
+.sidebar .widget {
+background:#ffffff;
+ border: 0px solid #999999;
+ margin: 0px 0px 0.5em 0px;
+ padding:0px 0px 0px 3px;
+}
+a:hover {               
+		letter-spacing: 0px;             
+		color:red;
+                
+               	}
+#sidebar-left-1 {
+margin-right:-10px;
+}
+#sidebar-left-1 {
+margin-left:-10px;
+}
+.column-right-inner {
+margin-left:-25px;
+}
+
+#sidebar-right-1 {
+margin-right:10px;
+}
+h2 {
+Color:#000000;
+background-color:#E6E6E6;
+Corner:-5px;
+}
+h2:hover{
+background-color:green;
+color:#FFFFFF;
+}
+h4 {
+padding-left:1px;
+Color:white;
+background-color:white;
+}
+a.one:link {
+font-size:15px;
+ color:#2A120A;  
+ background:#F2EEEE;  
+ padding:5px;  
+ -webkit-border-radius: 5px;  
+}
+a.one:hover  {  
+ color:#FAFAFA;  
+ background:#19A309;  
+}
+
+div.three {
+width:auto;
+border-style:solid;
+border-color:green;
+border-width:2px;
+padding-left:2px;
+margin-left=-5px;
+border-radius:10px;
+}
+
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+font-size:25px;
+background:#81F781;
+border-radius:20px;
+}
+div.hdl1
+{
+margin-left:0px;
+text-align:left;
+color:black;
+background:#E6E6E6;
+padding: 0,0,2em,0;
+} 
+
+#PageList_to name{
+margin-bottom:-0px;
+margin-left:-12px;
+padding-bottom:-1;
+width:1004px;
+}
+div.aboutbox
+{
+width:1000px;
+padding:10px;
+border:2px solid green;
+color:black;
+background:#ECF8E0;
+margin:0px;
+}
+div.insideadsense {
+width:auto;
+}
+div.ex
+{
+border:0px solid black;
+padding:-5px,0px,-5px,0px;
+margin:-5px,0px,-5px,0px;
+width:329px;
+}
+#ad1 {
+ width: 336px;
+ height: 280px;
+ position: relative;
+ left: 5px;
+ right: 0px;
+ bottom: 0px;
+ top: -2px;
+ }
+
+</style>
