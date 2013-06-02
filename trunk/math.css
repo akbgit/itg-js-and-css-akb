@@ -119,6 +119,11 @@ margin-left:-12px;
 padding-bottom:-1;
 width:1004px;
 }
+HTML4 {
+margin-top:0px;
+padding-top:0px;
+}
+
 div.aboutbox
 {
 width:1000px;
