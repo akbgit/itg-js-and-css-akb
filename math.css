@@ -41,7 +41,7 @@ color:red;
 .sidebar .widget {
 background:#ffffff;
  border: 0px solid #999999;
- margin: 0px 0px 0.5em 0px;
+ margin: 0px 0px 0px 0px;
  padding:0px 0px 0px 3px;
 }
 a:hover {               
@@ -52,11 +52,9 @@ a:hover {
 #sidebar-left-1 {
 margin-right:-10px;
 }
-#sidebar-left-1 {
-margin-left:-10px;
-}
+
 .column-right-inner {
-margin-left:-25px;
+margin-left:-0px;
 }
 
 #sidebar-right-1 {
@@ -113,7 +111,7 @@ background:#E6E6E6;
 padding: 0,0,2em,0;
 } 
 
-#PageList_to name{
+#PageList1 {
 margin-bottom:-0px;
 margin-left:-12px;
 padding-bottom:-1;
