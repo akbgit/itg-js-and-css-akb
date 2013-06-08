@@ -1,27 +1,4 @@
 ﻿<style type='text/css'> 
-.msgbox {
-	position: absolute;
-	top: 5px;
-	right: 5px;
-	width: 10em;
-	background-color: #8632ff;
-	border: 1px solid #333;
-	color: #fff;
-	font-weight: bold; }
-.msgbox p {
-	margin: 0;
-	padding: 5px 10px; }
-.msgbox a.close {
-	float: right;
-	text-decoration: none;
-	font-weight: bold;
-	color: #333;
-	background-color: #fff;
-	border-left: 1px solid #333;
-	border-bottom: 1px solid #333;
-	padding: 0 4px;
-	margin-left: 5px; }
-]]></b:skin>
 .profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
 -webkit-transition: width 1s ease-in-out, height 1s ease-out; 
 -moz-transition: width 1s ease-in-out, height 1s ease-out; 
