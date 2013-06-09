@@ -1,4 +1,5 @@
 ﻿<style type='text/css'> 
+<b:skin><![CDATA[
 .profile-img {width: 80px;height: 80px;padding: 0 0 5px 5px; 
 -webkit-transition: width 1s ease-in-out, height 1s ease-out; 
 -moz-transition: width 1s ease-in-out, height 1s ease-out; 
@@ -7,6 +8,7 @@ transition: width 1s ease-in-out, height 1s ease-out;
 } 
 .profile-img:hover {width:290px;height:270px;display:block;} 
   div.img1:hover {width:290px;height:270px;display:block;}
+]]></b:skin>
 .more{ 
 border: 5px solid #8632ff; 
 padding: 2px; 
