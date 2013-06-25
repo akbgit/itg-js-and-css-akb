@@ -105,4 +105,10 @@ transition: width 1s ease-in-out, height 1s ease-out;
 } 
 .profile-img:hover {width:290px;height:270px;display:block;} 
   div.img1:hover {width:290px;height:270px;display:block;}
+#PageList1{
+margin-bottom:-0px;
+margin-left:-12px;
+padding-bottom:0px;
+width:1004px;
+}
 </style>
