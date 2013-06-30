@@ -98,8 +98,8 @@ a.one:hover  {
 div.three {
 width:auto;
 border-style:solid;
-border-color:green;
-border-width:2px;
+border-color:#BDBDBD;
+border-width:1px;
 padding-left:2px;
 margin-left=-5px;
 border-radius:10px;
