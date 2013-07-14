@@ -111,7 +111,14 @@ margin-left:-12px;
 padding-bottom:0px;
 width:1004px;
 }
-
+.more{ 
+border: 5px solid #8632ff; 
+padding: 2px; 
+background: #f4f4f4; 
+border-radius:25px; 
+ font-size:18px; 
+color:red; 
+}
 #related-posts {
 float:center;
 text-transform:none;
