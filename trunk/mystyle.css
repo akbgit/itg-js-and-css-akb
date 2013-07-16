@@ -71,12 +71,8 @@ margin-right:-10px;
 }
 h2 {
 Color:#000000;
-background-color:#E6E6E6;
+background-color:#ffffff;
 Corner:-5px;
-}
-h2:hover{
-background-color:green;
-color:#FFFFFF;
 }
 h4 {
 padding-left:1px;
