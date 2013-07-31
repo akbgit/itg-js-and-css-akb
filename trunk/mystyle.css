@@ -7,8 +7,8 @@
 .more{background:#f4f4f4;border:5px solid #8632ff;border-radius:25px;color:red;font-size:18px;padding:2px}
 .sidebar .widget{background:#fff;border:0 solid #999;margin:0 0 .5em;padding:0 0 0 3px}
 a:hover{color:red;letter-spacing:0}
-#sidebar-left-1{margin-left:-10px;margin-right:-10px}
-.column-right-inner{margin-left:-25px}
+#sidebar-left-1{margin-left:-15px;margin-right:-10px;margin-top:6px}
+.column-right-inner{margin-left:-25px;margin-right:-7px}
 #sidebar-right-1{margin-right:-10px}
 h2{background-color:#fff;color:#000;corner:-5px}
 h4{background-color:#FFF;color:#FFF;padding-left:1px}
