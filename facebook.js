@@ -16,10 +16,3 @@ fjs.type = 'text/javascript';
 js.async=true;
 fjs.async=true;
 js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-
-var defaultnoimage=&quot;https://lh5.googleusercontent.com/d9OhCxoeUebaXsZJR8sBYMJLFCierocL_RnRW_mdrRE=s80-p-no&quot;;
-var maxresults=5;
-var splittercolor=&quot;#DDDDDD&quot;;
-var relatedpoststitle=&quot;Related Posts&quot;;
-</script>
-<script src='https://itg-js-and-css-akb.googlecode.com/svn/trunk/relatedpost.js' type='text/javascript'/>
