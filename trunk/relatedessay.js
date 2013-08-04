@@ -12,7 +12,7 @@ function relatedPostsWidget(userOp){
 			,'loadingText':''
 			,'loadingClass':''
 			,'relevantTip':''
-			,'relatedTitle':'Related Essays'
+			,'relatedTitle':'<h1>Related Essays</h1>'
 			,'recentTitle':'Recent Essays'
 			,'postScoreClass':''
 			,'onLoad':false
