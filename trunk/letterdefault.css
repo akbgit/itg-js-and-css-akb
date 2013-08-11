@@ -1,4 +1,5 @@
 <style type=text/css>
+
 /* Variable definitions
    ====================
    <Variable name="keycolor" description="Main Color" type="color" default="#66bbdd" value="#c7b6eb"/>
@@ -585,12 +586,5 @@ a:hover {
 height: 0px;
 visibility: hidden;
 display: none;
-}
-
-#navbar-iframe {
-display: none;
-}
-.column-left-outer {
-margin-top:-0px;
 }
 </style>
