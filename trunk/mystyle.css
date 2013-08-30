@@ -7,6 +7,7 @@
 .msgpositionleft a.close{background-color:#fff;border-bottom:1px solid #333;border-left:1px solid #333;color:#333;float:right;font-weight:700;margin-left:5px;padding:0 4px;text-decoration:none}
 .profile-img{-moz-transition:width 1s ease-in-out, height 1s ease-out;-ms-transition:width 1s ease-in-out, height 1s ease-out;-webkit-transition:width 1s ease-in-out, height 1s ease-out;height:80px;padding:0 0 5px 5px;transition:width 1s ease-in-out, height 1s ease-out;width:80px}
 .sidebar .widget{background:#fff;border:0 solid #999;margin:0 0 .5em;padding:0 0 0 3px}
+a.one:link{-webkit-border-radius:5px;background:#F2EEEE;color:#2A120A;font-size:15px;padding:5px}
 a:hover{color:red;letter-spacing:0}
 #sidebar-left-1{margin-left:-15px;margin-right:-10px;margin-top:6px}
 .column-right-inner{margin-left:-25px;margin-right:-7px}
