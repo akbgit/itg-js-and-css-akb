@@ -4,9 +4,9 @@ function relatedPostsWidget(userOp){
 	(function($){ 
 		var op = {
 			'blogURL':''
-			,'maxPosts':8
-			,'maxTags':8
-			,'maxPostsPerTag':8
+			,'maxPosts':16
+			,'maxTags':16
+			,'maxPostsPerTag':16
 			,'containerSelector':''
 			,'tags':null
 			,'loadingText':''
