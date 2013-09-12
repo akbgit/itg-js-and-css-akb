@@ -5,3 +5,4 @@
 .more{background:#f4f4f4;border:5px solid #8632ff;border-radius:25px;color:red;font-size:18px;padding:2px}
 a:hover{color:red;letter-spacing:0}
 div.ex,div.ex2{border:0 solid #000}
+.blog-pager-older-link,.home-link,.blog-pager-newer-link{background:#81F781;border-radius:20px;font-size:25px}
