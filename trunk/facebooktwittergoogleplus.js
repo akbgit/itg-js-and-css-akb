@@ -1,4 +1,4 @@
-var scripts = ["http://connect.beta.facebook.net/en_US/all.js#xfbml=1","http://platform.twitter.com/widgets.js","http://apis.google.com/js/plusone.js"];
+var scripts = ["http://connect.facebook.net/en_US/all.js#xfbml=1","http://platform.twitter.com/widgets.js","http://apis.google.com/js/plusone.js"];
 (function(array) {
    for (var i = 0, len = array.length; i < len; i++)
    {
