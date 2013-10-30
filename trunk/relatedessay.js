@@ -12,8 +12,8 @@ function relatedPostsWidget(userOp){
 			,'loadingText':''
 			,'loadingClass':''
 			,'relevantTip':''
-			,'relatedTitle':'<h1>You may also Like These Essays !</h1>'
-			,'recentTitle':'Recent Essays'
+			,'relatedTitle':'<h1>You may also Like These !</h1>'
+			,'recentTitle':'Recent Topics'
 			,'postScoreClass':''
 			,'onLoad':false
 		};
