@@ -27,3 +27,4 @@ h1.i1{color:blue;font-family:Comic Sans MS}
 ul.k{list-style-image:url(https://lh6.googleusercontent.com/-Wfh8Zzcz_8M/UjEvZ4lczmI/AAAAAAAABeY/qhaA64UxaiE/s7-no/square+for+list2.png)}
 a.footerlink:hover{text-decoration:underline}
 a.footerlink,a.footerlink:visited{color:#fff}
+.mobile .tabs-inner{background-color:#ccc}
