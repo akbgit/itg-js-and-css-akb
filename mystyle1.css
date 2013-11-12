@@ -20,7 +20,8 @@ h4{background-color:#FFF;color:#FFF;padding-left:1px}
 div.three{border-radius:10px;margin-bottom:-2px;margin-left:-5px;margin-top:-2px;padding-left:2px;width:auto;border-color:#BDBDBD;border-style:solid;border-width:1px}
 .blog-pager-older-link,.home-link,.blog-pager-newer-link{background:#81F781;border-radius:20px;font-size:25px}
 div.hdl1{background:#E6E6E6;color:#000;margin-left:0;text-align:left;padding:0}
-div.aboutbox{background:#ECF8E0;border:2px solid green;color:#000;width:1000px;margin:0;padding:10px}
+div.aboutbox{float:left;width:100%;background:#ECF8E0;border:2px solid green;color:#000;margin:0;padding:10px}
+@media and (max-width1000px){ {div.aboutbox{width:100%}}
 div.insideadsense{width:auto}
 h1.i1{color:blue;font-family:Comic Sans MS}
 .profile-img:hover,div.img1:hover{display:block;height:270px;width:290px}
