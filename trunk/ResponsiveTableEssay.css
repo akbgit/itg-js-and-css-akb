@@ -9,7 +9,7 @@ tr:nth-of-type(odd) {
 }
 @media 
 only screen and (max-width: 1000px),
-(min-device-width: device-width) and (max-device-width: 1024px)  {
+{
 
 	/* Force table to not be like tables anymore */
 	table, thead, tbody, th, td, tr { 
