@@ -1,32 +1,5 @@
 <style type='text/css'>
-  /*styling of the object*/
-  /* 
-Generic Styling, for Desktops/Laptops 
-*/
-table { 
-  width: 100%; 
-  border-collapse: collapse; 
-}
-/* Zebra striping */
-tr:nth-of-type(odd) { 
-  background: #eee; 
-}
-th { 
-  background: #333; 
-  color: white; 
-  font-weight: bold; 
-}
-td, th { 
-  padding: 6px; 
-  border: 1px solid #ccc; 
-  text-align: left; 
-}
- 
-/* 
-Max width before this PARTICULAR table gets nasty
-This query will take effect for any screen smaller than 760px
-and also iPads specifically.
-*/
+
 @media 
 only screen and (max-width: 760px),
 (min-device-width: 768px) and (max-device-width: 1024px)  {
@@ -64,12 +37,6 @@ only screen and (max-width: 760px),
 		white-space: nowrap;
 	}
 	
-	/*
-	Label the data
-	*/
-	td:nth-of-type(1):before { content: "Business &amp; Official letters:"; }
-	td:nth-of-type(2):before { content: "Personal Letters:"; }
-	td:nth-of-type(3):before { content: "Application:"; }
-
+	
 }
 </style>
