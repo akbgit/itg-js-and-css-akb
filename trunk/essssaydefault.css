@@ -1,4 +1,4 @@
-<style type=text/css>
+<style>
 html body $(page.width.selector) {
   min-width: 0;
   max-width: 100%;
@@ -112,8 +112,9 @@ $(content.background.color.selector) {
 
 .tabs-inner .widget li a {
   display: inline-block;
-
   padding: .6em 1em;
+padding-top:2px;
+padding-bottom:-2px;
 
   font: $(tabs.font);
   color: $(tabs.text.color);
@@ -275,6 +276,14 @@ h3.post-title, .comments h4 {
 #comments .avatar-image-container img {
   border: 1px solid $(image.border.color);
 }
+
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+  background-repeat: no-repeat;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+
 .comments .comments-content .loadmore a {
   border-top: 1px solid $(widget.alternate.text.color);
   border-bottom: 1px solid $(widget.alternate.text.color);
@@ -316,7 +325,6 @@ body.mobile  {
 
 .mobile .body-fauxcolumn-outer {
   background: $(mobile.background.overlay);
-}
 
 .mobile .body-fauxcolumn-outer .cap-top {
   background-size: 100% auto;
@@ -388,7 +396,6 @@ body.mobile .AdSense {
   border-top: $(tabs.border.width) solid $(tabs.border.color);
   border-bottom: $(tabs.border.width) solid $(tabs.border.color);
 }
-
 .mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
   border-$startSide: 1px solid $(tabs.border.color);
 }
@@ -398,33 +405,10 @@ body.mobile .AdSense {
                padding:0px 0px 0px 0px
 }
 
-.sidebar .widget {
-background:#ffffff;
- border: 0px solid #FFFFFF;
- margin: 0px 0px 0.5em 0px;
- padding:0px 0px 0px 3px;
-border:0px solid #ffffff;
-}
 a:hover {               
 		letter-spacing: 0px;             
-		color:#FF6633;
-                
+		color:#FF6633;     
                	}
-
-#navbar {
-height: 0px;
-visibility: hidden;
-display: none;
-}
-
-#navbar-iframe {
-display: none;
-}
-.column-left-outer {
-margin-top:-0px;
-}
-
 .post{
 title-color:#8632ff;
-}.tabs-inner .PageList li a {padding-top:3px; padding-bottom:0px;}
-</style>
+}.tabs-inner .PageList li a {padding-top:3px; padding-bottom:0px;}</style>
