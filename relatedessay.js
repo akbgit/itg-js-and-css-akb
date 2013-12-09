@@ -1,12 +1,11 @@
-/* 	
-*/
+
 function relatedPostsWidget(userOp){
 	(function($){ 
 		var op = {
 			'blogURL':''
-			,'maxPosts':16
-			,'maxTags':16
-			,'maxPostsPerTag':16
+			,'maxPosts':9
+			,'maxTags':6
+			,'maxPostsPerTag':3
 			,'containerSelector':''
 			,'tags':null
 			,'loadingText':''
