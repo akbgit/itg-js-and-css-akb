@@ -21,3 +21,61 @@ div.four{border-color:grey;border-radius:10px;border-style:solid;border-width:1p
 .msgbox p{margin:0;padding:5px 10px}
 .msgbox a.close{background-color:#fff;border-bottom:1px solid #333;border-left:1px solid #333;color:#333;float:right;font-weight:700;margin-left:5px;padding:0 4px;text-decoration:none}
 .mobile .tabs-inner{background-color:#ccc}
+
+  /*responsive*/
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 10%; 
+	}
+	
+	td:before { 
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 30%; 
+		padding-right: 5px; 
+		white-space: nowrap;
+	}
+
+	td:nth-of-type(1):before { content: "Business &amp; Official letters:"; }
+	td:nth-of-type(2):before { content: "Personal Letters:"; }
+	td:nth-of-type(3):before { content: "Application:"; }
+
+}
