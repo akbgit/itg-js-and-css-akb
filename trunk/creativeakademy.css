@@ -69,13 +69,16 @@ only screen and (max-width: 760px),
 		/* Top/left values mimic padding */
 		top: 6px;
 		left: 6px;
-		width: 30%; 
+		width: 16%; 
 		padding-right: 5px; 
 		white-space: nowrap;
 	}
 
-	td:nth-of-type(1):before { content: "Business &amp; Official letters:"; }
-	td:nth-of-type(2):before { content: "Personal Letters:"; }
-	td:nth-of-type(3):before { content: "Application:"; }
+	td:nth-of-type(1):before { content: "1"; }
+	td:nth-of-type(2):before { content: "2"; }
+	td:nth-of-type(3):before { content: "3"; }
+                   td:nth-of-type(4):before { content: "4"; }
+	td:nth-of-type(5):before { content: "5"; }
+	td:nth-of-type(6):before { content: "Examples"; }
 
 }
