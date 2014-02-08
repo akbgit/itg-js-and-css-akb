@@ -11,7 +11,7 @@ div.four{border-color:grey;border-radius:10px;border-style:solid;border-width:1p
 #navbar{display:none;height:0;visibility:hidden}
 .profile-img{-moz-transition:width 1s ease-in-out, height 1s ease-out;-ms-transition:width 1s ease-in-out, height 1s ease-out;-webkit-transition:width 1s ease-in-out, height 1s ease-out;height:80px;padding:0 0 5px 5px;transition:width 1s ease-in-out, height 1s ease-out;width:80px}
 #PageList1{margin-bottom:0;margin-left:-12px;padding-bottom:0;width:1061px}
-.more{background:#f4f4f4;border:5px solid #8632ff;border-radius:25px;color:red;font-size:18px;padding:2px}
+.more{background:#f4f4f4;border:1px solid ##1C1C1C;border-radius:5px;color:red;font-size:18px;padding:2px}
 #related-posts{float:center;height:100%;min-height:100%;padding-left:5px;padding-top:5px;text-transform:none}
 #related-posts h2{color:#5D5D5D;font-family:Arial Narrow;font-size:18px;font-weight:700;letter-spacing:2px;margin-bottom:.75em;margin-top:0;padding-top:0;text-transform:none}
 #related-posts a{border-right:1px dotted #DDD;color:#5D5D5D}
