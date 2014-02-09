@@ -10,7 +10,7 @@ div.ex,div.ex2{border:0 solid #000}
 a.one:link{-webkit-border-radius:5px;background:#F2EEEE;color:#2A120A;font-size:15px;padding:5px}
 a.one:hover{background:#19A309;color:#FAFAFA}
 #sidebar-left-1{margin-left:-15px;margin-right:-10px;margin-top:6px}
-.column-right-inner{margin-left:-25px;margin-right:-7px}
+.column-right-inner{margin-left:-0px;margin-right:-7px}
 #sidebar-right-1{margin-right:-10px}
 h2{background-color:#fff;color:#000;corner:-5px}
 h4{background-color:#FFF;color:#FFF;padding-left:1px}
