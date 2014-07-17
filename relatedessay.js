@@ -5,7 +5,7 @@ function relatedPostsWidget(userOp){
 			'blogURL':''
 			,'maxPosts':9
 			,'maxTags':6
-			,'maxPostsPerTag':3
+			,'maxPostsPerTag':6
 			,'containerSelector':''
 			,'tags':null
 			,'loadingText':''
